@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lab-hello-react/static/css/main.1fca1c82.css",
+    "main.js": "/lab-hello-react/static/js/main.7b2a21d8.js",
+    "static/js/787.4a815658.chunk.js": "/lab-hello-react/static/js/787.4a815658.chunk.js",
+    "static/media/Fotolia_130414382_Subscription_Monthly_M.jpg": "/lab-hello-react/static/media/Fotolia_130414382_Subscription_Monthly_M.b8916ce9d1f042fedc5b.jpg",
+    "index.html": "/lab-hello-react/index.html",
+    "main.1fca1c82.css.map": "/lab-hello-react/static/css/main.1fca1c82.css.map",
+    "main.7b2a21d8.js.map": "/lab-hello-react/static/js/main.7b2a21d8.js.map",
+    "787.4a815658.chunk.js.map": "/lab-hello-react/static/js/787.4a815658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fca1c82.css",
+    "static/js/main.7b2a21d8.js"
+  ]
+}
