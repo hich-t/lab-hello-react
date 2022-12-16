@@ -1,0 +1,60 @@
+.block {
+    background-image: url(./images/Fotolia_130414382_Subscription_Monthly_M.jpg);
+    margin: 20px 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logos {
+    margin: 0 50px 100px 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logoIronhack {
+    margin-top: 20px;
+    width: 30px;
+}
+
+.logoMenu {
+    margin-top: 20px;
+    width: 25px;
+    height: 20px;
+    
+}
+
+.text {
+
+text-align: left;
+color: white;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+
+}
+
+.title {
+
+    color: white;
+    font-size: 50px;
+    margin: 20px 0 10px 50px;
+}
+
+.parag {
+
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 0px 0 10px 50px;
+}
+
+.awesome {
+
+    margin: 75px 0 50px 50px;
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    font-weight: bold;
+
+}

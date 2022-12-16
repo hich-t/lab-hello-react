@@ -1,0 +1,33 @@
+.composants {
+
+margin: 20px 20px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-flow: wrap;
+align-items: flex-start;
+align-content: flex-start;
+}
+
+.icons {
+
+    width: 90px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.titles {
+
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.paragraphs {
+
+    text-align: left;
+    font-size: 14px;
+    width: 150px;
+
+}
